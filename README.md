@@ -1,2 +1,3 @@
 # LATIHANN
 Latihan
+Wahh
